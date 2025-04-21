@@ -2,4 +2,4 @@
 # Author Reko Rintala
 # Description Code for git testing purposes
 print("I am a beginner with Git")
-print("Fixed")
+print("Ouagadougou is the capital city of Burkina Faso.")
