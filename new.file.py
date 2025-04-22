@@ -1,3 +1,3 @@
-print("This is a test 2.")
+print("Ok, merge conflict.")
 
 print("This is a change.")
